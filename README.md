@@ -1,6 +1,4 @@
-<div align="center">
-# 🔭 Currently Working on :
-ToKa Fitness
+## 🔭 Currently Working On: <br> Toka Fitness
  
 ## 🌐 Socials:
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/30248346) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lewie-jackson) 
@@ -25,4 +23,4 @@ ToKa Fitness
 
 ---
 [![](https://visitcount.itsvg.in/api?id=lewiej08&icon=0&color=0)](https://visitcount.itsvg.in)
-</div>
+
