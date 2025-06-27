@@ -1,8 +1,8 @@
 <div align="center">
  
 # 👨‍💻 Active Projects
+### [Space Station Tycoon](https://github.com/LewieJ08/space-station-tycoon) - In Progress / Active ⏩
 ### [Toka Fitness](https://github.com/LewieJ08/toka_fitness) - In Progress / Paused ⏸️
-### [Idle Game](https://github.com/LewieJ08/idle-game) - In Progress / Active ⏩
  
 ## 🌐 Socials:
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/30248346) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lewie-jackson) 
