@@ -1,7 +1,7 @@
 <div align="center">
  
 # 👨‍💻 Active Projects
-### [Space Station Tycoon](https://github.com/LewieJ08/space-station-tycoon) - In Progress / Active ⏩
+### [Idle Galactic Miner](https://github.com/LewieJ08/idle-galactic-miner) - In Progress / Active ⏩
 ### [Toka Fitness](https://github.com/LewieJ08/toka_fitness) - In Progress / Paused ⏸️
  
 ## 🌐 Socials:
