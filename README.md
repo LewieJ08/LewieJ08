@@ -2,7 +2,7 @@
  
 # 👨‍💻 Currently Working On:
 ### [Idle Galactic Miner](https://github.com/LewieJ08/idle-galactic-miner) 🎮
-### [Node Express Practice](https://github.com/LewieJ08/node-express-practice) 🌐
+### [Blog API](https://github.com/LewieJ08/blog-api) 🌐
 
 ## ⚙ Contributing to:
 ### [Sportify](https://github.com/z3zZ/Sportify) 
