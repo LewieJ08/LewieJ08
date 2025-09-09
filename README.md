@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Lewie Jackson</h1>
  
 # 👨‍💻 Currently Working On:
-### [Weather API](https://github.com/LewieJ08/weather-api) ☁️
+### [Vite React Practice](https://github.com/LewieJ08/vite-react-practice) ⚡⚛️
 
 ##  🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lewie-jackson) 
