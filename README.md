@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Lewie Jackson</h1>
  
 # 👨‍💻 Currently Working On:
-### [PR-CLI](https://github.com/LewieJ08/pr-cli) 
+### [Lujax Tasks](https://github.com/lujax-dev/tasks) 
 
 ##  🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lewie-jackson) 
