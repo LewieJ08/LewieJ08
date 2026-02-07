@@ -2,6 +2,7 @@
  
 # 👨‍💻 Currently Working On:
 ### [Lujax Tasks](https://github.com/lujax-dev/tasks) 
+### [npm-stats](https://github.com/lewiej08/npm-stats)
 
 ##  🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lewie-jackson) 
