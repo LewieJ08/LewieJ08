@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Lewie Jackson</h1>
  
 # 👨‍💻 Currently Working On:
-### [npm-stats](https://github.com/lewiej08/npm-stats)
+### [PR Discord Bot](https://github.com/lewiej08/pr-discord-bot)
 
 ##  🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lewie-jackson) 
