@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋 I'm Lewie Jackson</h1>
- 
 # 👨‍💻 Currently Working On:
 ### [PR Discord Bot](https://github.com/lewiej08/pr-discord-bot)
 
