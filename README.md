@@ -1,4 +1,5 @@
 # 👨‍💻 Currently Working On:
+### [GitHub SDK](https://github.com/lewiej08/github-sdk)
 ### [PR Discord Bot](https://github.com/lewiej08/pr-discord-bot)
 
 ##  🌐 Connect with me:
