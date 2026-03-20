@@ -1,6 +1,5 @@
 # 👨‍💻 Currently Working On:
 ### [GitHub SDK](https://github.com/lewiej08/github-sdk)
-### [PR Discord Bot](https://github.com/lewiej08/pr-discord-bot)
 
 ##  🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lewie-jackson) 
