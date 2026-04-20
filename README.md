@@ -1,5 +1,5 @@
 # 👨‍💻 Currently Working On:
-### [GitHub SDK](https://github.com/lewiej08/github-sdk)
+### [@lujax/github-sdk](https://github.com/lewiej08/github-sdk)
 
 ##  🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lewie-jackson) 
