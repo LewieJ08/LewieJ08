@@ -2,7 +2,7 @@
 ### [@lujax/github-sdk](https://github.com/lewiej08/github-sdk)
 
 ##  🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lewie-jackson) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lewiejackson) 
 [![npm](https://img.shields.io/badge/npm-FF0000)](https://www.npmjs.com/~lewiej08)
 
 # 💻 Tech Stack:
