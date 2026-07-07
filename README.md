@@ -1,5 +1,7 @@
 # 👨‍💻 Currently Working On:
-### [@lujax/github-sdk](https://github.com/lewiej08/github-sdk)
+### [@lujax/github-sdk](https://github.com/lewiej08/github-sdk) 
+[v1.0.0](https://www.npmjs.com/package/@lujax/github-sdk)
+
 
 ##  🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lewiejackson) 
