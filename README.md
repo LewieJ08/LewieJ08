@@ -1,4 +1,4 @@
-# 👨‍💻 Currently Working On:
+# Latest Release
 ### [@lujax/github-sdk](https://github.com/lewiej08/github-sdk) 
 [v1.0.0](https://www.npmjs.com/package/@lujax/github-sdk)
 
