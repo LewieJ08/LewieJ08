@@ -2,6 +2,8 @@
 ### [@lujax/github-sdk](https://github.com/lewiej08/github-sdk) 
 [v1.0.0](https://www.npmjs.com/package/@lujax/github-sdk)
 
+v.1.1.0 Coming Soon
+
 
 ##  🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lewiejackson) 
