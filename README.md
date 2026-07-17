@@ -20,6 +20,8 @@ got me the Amazon offer.
 
 ## Links
 
-[LinkedIn](#) · [npm](https://www.npmjs.com/~lewiej08)
+[LinkedIn](https://www.linkedin.com/in/lewiejackson/) · [npm](https://www.npmjs.com/~lewiej08)
 
 <!-- keep your existing stats/badges block below this line -->
+
+
