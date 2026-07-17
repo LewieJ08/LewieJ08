@@ -11,13 +11,6 @@ TypeScript SDK wrapping the GitHub API. Published to npm as
 `@lujax/github-sdk`. See [lujax-dev](https://github.com/lujax-dev) for
 what's coming next.
 
-## Before Lujax
-
-[`pr-cli`](https://github.com/LewieJ08/pr-cli) — a Pull Request CLI tool
-(~1,200 downloads), and [`npm-stats-cli`](https://github.com/LewieJ08/npm-stats-cli) —
-an npm stats CLI tool (~1,000 downloads). Both cited in the interview that
-got me the Amazon offer.
-
 ## Links
 
 [LinkedIn](https://www.linkedin.com/in/lewiejackson/) · [npm](https://www.npmjs.com/~lewiej08)
